@@ -1,0 +1,9 @@
+{
+	"name": "pvnADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ecd60b74-b7f1-4185-8890-dffc7cbb57cd",
+		"tenantId": "367018a8-a5e5-42be-9dc2-969d5915f276"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"name": "my_pipe",
+	"properties": {
+		"activities": [
+			{
+				"name": "newpvn_Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-04-11T03:30:29Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
