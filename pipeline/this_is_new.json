@@ -1,0 +1,17 @@
+{
+	"name": "this_is_new",
+	"properties": {
+		"activities": [
+			{
+				"name": "newWait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
